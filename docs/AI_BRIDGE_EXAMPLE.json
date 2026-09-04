@@ -1,0 +1,40 @@
+{
+  "topic": {
+    "title": "北京650分到底值不值得出京？",
+    "purpose": "decision",
+    "target_audience": "北京高三中高分段学生及家长",
+    "angle": "城市便利与学校/专业跃迁之间的交换"
+  },
+  "brief": {
+    "target_audience": "北京高三中高分段学生及家长",
+    "purpose": "decision",
+    "content_type": "决策型",
+    "core_conflict": "留京便利 vs 外地平台跃迁",
+    "thesis": "是否出京不能按城市偏好判断，要看是否换来显著的平台或专业提升。",
+    "reader_takeaway": "学会比较交换关系",
+    "creator_angle": "少讲排名，多讲未来路径",
+    "outline": ["先定义问题", "什么时候留京", "什么时候出京", "决策清单"],
+    "facts_to_verify": ["涉及当年录取位次时核验最新数据"],
+    "risk_flags": ["不做保录承诺"]
+  },
+  "draft": {
+    "titles": ["北京650分，我为什么会认真考虑出京", "北京650分要不要留京？先算这笔账", "别把留北京默认成最优解"],
+    "body": "示例正文",
+    "tags": ["#北京高考", "#高考志愿"],
+    "factual_claims": []
+  },
+  "fact_check": {
+    "items": [],
+    "compliance_flags": [],
+    "summary": "本示例没有具体时效性事实",
+    "searched_web": false
+  },
+  "card_plan": {
+    "cards": []
+  },
+  "repurpose": [
+    {"channel": "video_script", "title": "", "body": "示例口播", "notes": ""},
+    {"channel": "wechat_moments", "title": "", "body": "示例朋友圈", "notes": ""},
+    {"channel": "wechat_group", "title": "", "body": "示例家长群", "notes": ""}
+  ]
+}

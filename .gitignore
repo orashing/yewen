@@ -1,0 +1,48 @@
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+.coverage
+coverage.xml
+htmlcov/
+
+# JavaScript / build output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local databases and runtime state
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+api/data/*
+!api/data/.gitkeep
+
+# Browser sessions, cookies, screenshots, and Playwright artifacts
+.content-os/
+browser-profile/
+browser-profiles/
+*xhs-*-profile/
+cookies*.json
+storage-state*.json
+screenshots/
+test-results/
+playwright-report/
+
+# Logs and editor / OS files
+*.log
+logs/
+.DS_Store
+.idea/
+.vscode/
